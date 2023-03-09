@@ -1,0 +1,95 @@
+@font-face{
+    font-family: pacifico;
+    src: url(../font/Pacifico.ttf);
+}
+@font-face{
+    font-family: minionpro;
+    src: url(../font/MinionPro-Regular.otf);
+}
+@font-face{
+    font-family: grotesk;
+    src: url(../font/supergroteska-rg.ttf);
+}
+.f_grotesk{
+    font-family: grotesk;
+}
+.f_minionpro{
+    font-family: minionpro;
+}
+.f_pacifico{
+    font-family: pacifico;
+}
+
+.bg{
+    background: url(../images/office.jpg);
+    background-size: cover;
+   
+    height: 100%;
+    width: auto;
+    padding-bottom: 100px;
+}
+.of_blur{
+    background: url(../images/office_blur.png);
+    background-size: cover;
+   
+    height: 100%;
+    width: auto;
+}
+
+
+.align_j{
+    text-align: justify;
+}
+.align_c{
+    text-align: center;
+}
+.align_left{
+    text-align: left;
+}
+.align_right{
+    text-align: right;
+}
+.f_color_white{
+    color: rgba(245, 245, 245, 0.808);
+}
+
+.color_black{
+    background-color: rgba(0, 0, 0, 0.897);
+}
+.name{
+    margin-top: 20px;
+}
+.icon{
+    border-radius: 100%;
+    width: 50px;
+}
+.img1{
+    border-radius: 1%;
+    margin-top: 25px;
+}
+.img1_content{
+    color: whitesmoke;
+    margin-top: 25px;
+}
+.wc{
+    margin-top: 25px;
+}
+.margin_top{
+    margin-top: 25px;
+}
+
+.footer{
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.footerfooter{
+    background-color: rgba(255, 255, 255, 0.897);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.whitesmoke{
+    color: whitesmoke;
+}
